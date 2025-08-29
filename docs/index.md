@@ -1,7 +1,8 @@
 # Documentación del Proyecto de Sebastian Cortes
 
 ## Autor:
-### Sebastian Cortes Gutierrez
+### Sebastian Cortes Gutierrez 
+![Diagrama del sistema](recursos/imgs/SCG.jpeg)
 
 ## Nombres del Curso:
 ### Introducción a La Mecatronica
