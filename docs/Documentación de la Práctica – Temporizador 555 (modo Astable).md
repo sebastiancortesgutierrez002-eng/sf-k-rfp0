@@ -1,4 +1,4 @@
-# 📚 Ejemplo de Documentación del Proyecto
+# 📚 Documentación de la Práctica – Temporizador 555 (modo Astable)
 
 ---
 
