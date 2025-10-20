@@ -78,6 +78,6 @@
 
 ## **Fotos del montaje físico:**
 ### Figura 3. Montaje físico – Vista 1
-![Diagrama del sistema](recursos/imgs/armado1.png)
+![Diagrama del sistema](recursos/imgs/armado_1.png)
 ### Figura 4. Montaje físico – Vista 2
-![Diagrama del sistema](recursos/imgs/armado2.png)
+![Diagrama del sistema](recursos/imgs/armado_2.png)
