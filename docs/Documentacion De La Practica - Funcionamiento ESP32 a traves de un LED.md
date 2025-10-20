@@ -4,7 +4,7 @@
 
 # 1) Resumen
 
-- ## **Nombre del proyecto:** Oscilador Astable con 555
+- ## **Nombre del proyecto:** Funcionamiento ESP32
 - ## **Autor:**  Sebastián Cortes
 - ## **Curso / Asignatura:** Introduccion a la mecatronica 
 - ## **Fecha:** 05/09/2025  

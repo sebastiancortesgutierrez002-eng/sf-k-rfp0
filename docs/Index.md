@@ -1,9 +1,6 @@
-
-
 ## Autor:
 ### Sebastian Cortes Gutierrez 
 ![Diagrama del sistema](recursos/imgs/SCG.jpg)
-
 ## Nombres del Curso:
 ### Introducción a La Mecatronica
 
